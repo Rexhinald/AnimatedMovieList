@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="movie-item"
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "row",
+      "padding": 20,
+    }
+  }
+>
+  <img
+    src="https://image.tmdb.org/t/p/original//a4xykTie8BOSW0y6K5u1AcmW4HW.jpg"
+    style={
+      Object {
+        "width": 60,
+      }
+    }
+  />
+  <div
+    className="movie-item-text"
+  >
+    <div
+      className="movie-item-title"
+    >
+      Blue Bayou
+    </div>
+    <div
+      style={
+        Object {
+          "transform": "none",
+        }
+      }
+    >
+      2021-09-10
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="movie-details"
+  style={
+    Object {
+      "transform": "translateX(-100%) translateZ(0)",
+    }
+  }
+>
+  <img
+    src="https://image.tmdb.org/t/p/original//wETWXzbvn0LhrPGLeRqyIeIl0E8.jpg"
+    width="100%"
+  />
+  <h2>
+    Blue Bayou
+  </h2>
+  <div
+    className="movie-details-date"
+  >
+    2021-09-10
+  </div>
+  <p>
+    As a Korean-American man raised in the Louisiana bayou works hard to make a life for his family, he must confront the ghosts of his past as he discovers that he could be deported from the only country he has ever called home.
+  </p>
+</div>
+`;
